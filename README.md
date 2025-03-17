@@ -1,1 +1,2 @@
-This feature is not yet ready to merge.
+This line is modified as a solution to the merge conflict
+
